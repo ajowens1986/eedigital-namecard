@@ -7,8 +7,8 @@ ORG:Elemental Energies;
 TITLE:Owner
 EMAIL;type=INTERNET;type=WORK;type=pref:elementalenergies444@gmail.com
 TEL;type=WORK;type=VOICE:252 640 5911
-item1.ADR;type=WORK;type=pref:;;South Carolina;;;29532;Darlington
+item1.ADR;type=WORK;type=pref:;;North Carolina;;;28586;Vanceboro
 item1.X-ABADR:sg
-item2.URL;type=pref:https://www.instagram.com/elemental_energies4/
+item2.URL;type=pref:https://www.facebook.com/elementalenergies4
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
